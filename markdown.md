@@ -92,7 +92,7 @@ This mathematical formula could then be applied to GIS based on the DEM and slop
 **6 * 2.71828 ^ (-3.5 * abs(Tan(("Slope@1" * 3.14159) / 180) + 0.05))**
 
 
-![ToblerImg](GIS_Images/ToblerImg.PNG)
+![ToblerImg](./GIS_Images/ToblerImg.PNG)
 <small>Fig. 5.1 Tobler Hours; DEM source from TGOS
 </small>
 
