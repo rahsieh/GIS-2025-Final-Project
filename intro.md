@@ -1,11 +1,7 @@
-# Welcome to your Jupyter Book
+# Introduction
 
-This is a small sample book to give you a feel for how book content is
-structured.
-It shows off a few of the major file types, as well as some sample content.
-It does not go in-depth into any particular topic - check out [the Jupyter Book documentation](https://jupyterbook.org) for more information.
+Hello. I'm Rachel Hsieh, a summer intern at Academia Sinica’s Center for RCHSS in 2025. I'm currently a rising junior majoring in anthropology at UCLA, with particular interests in archaeology, history, and literature. I also enjoy National Geographic and Agatha Christie novels.
 
-Check out the content pages bundled with this sample book to see more.
+Lately, I’ve been exploring how technologies like GIS can support archaeological research. After connecting with professionals working on Taiwanese archaeology, I became interested in how the Paiwan’s usage of spaces and the Japanese’s forced relocation policies impacted their lives. This topic allows me to combine both anthropological and geospatial approaches, an opportunity I found both challenging and rewarding during my time here.
 
-```{tableofcontents}
-```
+![GIS25Profile](GIS_Images/GIS25Profile.png)
