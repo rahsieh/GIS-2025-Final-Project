@@ -41,28 +41,28 @@ Nonetheless, the maps below will attempt to analyze these situations as impartia
 
 The village points, plotted mainly from Japanese-era government survey records and studies of these sites in other dissertations—either through satellite images or descriptions—aim to have a general range of about 1:3000, the closest approximation. In the map below, Tjukuvulj’s move to Mudan and Qinaljan’s move to Aljungic have been drawn, accompanied by a base map layer of a Japanese-era map of Taiwan, circa 1939, around the time of such relocation processes.
 
-![Fig1.1](GIS_Images/Fig1.1.PNG)
+![Fig1.1](GIS_Images/Fig1.1.png)
 <small>Fig. 1.1 Location of respective communities and relocation paths on 1939 Full Map of Japanese-era Taiwan (5th version); Source from Academia Sinica GIS Center</small>
 
 While the hillshade maps allow easier visualization of the elevation differences, the closely zoomed-in elevation contour maps enable precise visualization of the Paiwan’s surroundings in the makeup of their house society structures. As could be noted, it is evident that in both the cause of Tjukuvulj and Qinaljan, the living conditions were above 1000 meters; the move to new settlements with elevations of approximately 370 and 270, an obvious decrease in elevation, largely affected their social composition and structure, such as methods of obtaining food, which will be discussed later.
 
-![Fig2.1](GIS_Images/Fig2.1.PNG)
+![Fig2.1](GIS_Images/Fig2.1.png)
 <small>Fig. 2.1 Hillshade of respective communities; DEM source from APPEEARS
 </small>
 
-![Fig3.1](GIS_Images/Fig3.1.PNG)
+![Fig3.1](GIS_Images/Fig3.1.png)
 <small>Fig. 3.1 Elevation contour of Tjukuvulj in meters; DEM source from APPEEARS
 </small>
 
-![Fig3.2](GIS_Images/Fig3.2.PNG)
+![Fig3.2](GIS_Images/Fig3.2.png)
 <small>Fig. 3.2 Elevation contour of Mudan in meters; DEM source from APPEEARS
 </small>
 
-![Fig3.3](GIS_Images/Fig3.3.PNG)
+![Fig3.3](GIS_Images/Fig3.3.png)
 <small>Fig. 3.3 Elevation contour of Qinaljan in meters; DEM source from APPEEARS
 </small>
 
-![Fig3.4](GIS_Images/Fig3.4.PNG)
+![Fig3.4](GIS_Images/Fig3.4.png)
 <small>Fig. 3.4 Elevation contour of Aljungic in meters; DEM source from APPEEARS
 </small>
 
@@ -70,7 +70,7 @@ While the hillshade maps allow easier visualization of the elevation differences
 
 Lastly, by obtaining the slope, in degrees converted from the DEM in meters, to calculate Tobler Hours, we get an estimate of the relocation situation. Though there is not an exact pathway the Paiwan took, nor the estimated time that they took to relocate, which in itself could cause numerous confounding variables based on weather, their traveling abilities within the mountainous ranges, as well as governmental policies, the shading, derived form slopes in degrees, let us know what parts of the route would general take longer to travel and vice versa.
 
-![SlopeImg](GIS_Images/SlopeImg.PNG)
+![SlopeImg](GIS_Images/SlopeImg.png)
 <small>Fig. 4.1 Slope in degrees; DEM source from TGOS
 </small>
 
@@ -78,7 +78,7 @@ From the map, one realizes that most of the pathways are arguably physically cha
 
 Tobler’s Hiking Function, a mathematical model that estimates the walking speed over terrain based on slope, takes into account the fact that humans do not walk at the same speed uphill and downhill, therefore giving a more accurate result of travel times since it accounts the geography and slope themselves in addition to simply distance. The formula is derived as thus:
 
-![ToblerEquation](GIS_Images/ToblerEquation.PNG)
+![ToblerEquation](GIS_Images/ToblerEquation.png)
 
 - V = walking speed in km/h (velocity)
 - 6 = the maximum possible walking speed based on Tobler’s data (6 km/h)
