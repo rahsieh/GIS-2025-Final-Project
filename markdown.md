@@ -80,7 +80,7 @@ From the map, one realizes that most of the pathways are arguably physically cha
 
 Tobler’s Hiking Function, a mathematical model that estimates the walking speed over terrain based on slope, takes into account the fact that humans do not walk at the same speed uphill and downhill, therefore giving a more accurate result of travel times since it accounts the geography and slope themselves in addition to simply distance. The formula is derived as thus:
 
-![ToblerEquation](GIS_Images/ToblerEquation.png)
+<span style="font-size: 50px;">{math}`v=6*e^{-3.5*abs|tan(θ+0.05)|}`</span>
 
 - V = walking speed in km/h (velocity)
 - 6 = the maximum possible walking speed based on Tobler’s data (6 km/h)
